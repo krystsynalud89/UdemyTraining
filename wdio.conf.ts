@@ -1,5 +1,5 @@
 //const allure = require('allure-commandline')
-//import type { Options } from '@wdio/types'
+import type { Options } from '@wdio/types'
 export const config: Options.Testrunner = {
         //
     // ====================
